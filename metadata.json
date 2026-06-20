@@ -1,0 +1,8 @@
+{
+  "name": "Interiors",
+  "description": "A premium, AI-powered e-commerce platform for luxury furniture and smart interior designs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
